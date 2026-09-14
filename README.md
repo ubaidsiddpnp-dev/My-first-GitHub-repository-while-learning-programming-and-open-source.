@@ -12,3 +12,6 @@ Hi! I'm learning C++ and Web Development.
 
 ## Goal
 I want to learn open source development and eventually contribute to GSoC.
+## What I'm Learning
+
+Currently learning Git, GitHub and open-source development.
